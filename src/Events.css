@@ -1,0 +1,68 @@
+body {
+    overflow-x: hidden;
+    box-sizing: border-box;
+    margin: 0;
+    background-color:rgba(255, 255, 255, 0.842)!important;
+    font-family: 'Montserrat', sans-serif!important;
+  }
+
+.h1, h1 {
+    font-size: 2.5rem;
+    color: brown;
+}
+
+.h4, h4 {
+    font-size: 1.5rem;
+    color:whitesmoke;
+}
+
+img {
+    vertical-align: middle;
+    border-style: hidden;
+    border-radius: 50px;
+    padding: 5px;
+    width: 400px;
+}
+
+.h2, h2 {
+    font-size: 2rem;
+    color: mintcream;
+}
+
+.navbar-light .navbar-brand {
+    color: rgb(110, 95, 95);
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: rgba(23, 196, 219, 0.911);
+}
+
+.navbar-light .navbar-brand {
+    color: rgba(54, 54, 54, 0.678);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link {
+    color: rgba(0,0,0,.9);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: rgba(23, 196, 219, 0.911);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.h3, h3 {
+    font-size: 1.75rem;
+    color: brown;
+}
+
+p {
+    margin-top: 0;
+    margin-bottom: 1rem;
+    color: rgb(0, 0, 0);
+}
+
+.bg-light {
+    background-color: #49483b4d!important;
+}
